@@ -4,11 +4,15 @@
 }.percentoff {
     color: #a76dc6;
     font-family: "All Round Gothic Bold";
-    font-size: 70px;
+    font-size: 76px;
     text-shadow: 2px 2px 0px #FFFFFF;
     width: 8em;
     padding-left: 32px;
     position: relative;
     padding-top: 257px;
     text-align: center;
+}
+.purplephone {
+    position: static;
+    padding-left: 12px;
 }
